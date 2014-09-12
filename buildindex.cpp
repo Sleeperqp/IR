@@ -3,7 +3,7 @@
 #include <sys/types.h>
 #include <dirent.h>
 #include <iostream>
-#include <fstream> 
+#include <fstream>
 #include <map>
 #include <string>
 #include <vector>
