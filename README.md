@@ -32,3 +32,4 @@ IR
 		读取文件下中的多个文本，对于每个文本，依次读取单词，此处即为term。
 		对整个过程中读取到的term建立hash,映射至一个termid，方便Index操作。
 		对于每读取到的term，向Index[termid]插入该文本(doc)的docID
+	test- -
